@@ -1,0 +1,10 @@
+v101(abierto/cerrado): abierto
+v201(abierto/cerrado): abierto
+
+v102(abierto/cerrado): abierto
+v202(abierto/cerrado): abierto
+
+v103(abierto/cerrado): cerrado
+v203(abierto/cerrado): cerrado
+
+tiempo de rotación (segundos): 30
